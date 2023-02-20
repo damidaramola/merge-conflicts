@@ -1,1 +1,1 @@
-Create a conflict for my resume branch
+<p>Create conflict for my resume branch</p>
